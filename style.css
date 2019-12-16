@@ -1,0 +1,207 @@
+body {
+  font-family: "Times New Roman"
+  font-size:20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom:20px;
+}
+
+title{
+font-size:35px;
+}
+
+a{
+text-decoration:none;
+color:black;
+}
+
+
+.topnav {
+  overflow: visible;
+  background-color:black;
+}
+
+.topnav a {
+  float:left;
+  color: black;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rbg(0,0,0);
+  color:red;
+}
+
+.topnav a.active {
+  background-color:white;
+  color:red;
+}
+
+#sticky {
+  position:fixed;
+  top: 0;
+  width:100%;
+  background-color:white;
+}
+
+#imageme{
+width:190px;
+height:300px;
+}
+
+#bushwick{
+height:120px;
+width:120px;
+border-radius: 50%;
+}
+#bushwick:hover{
+filter:invert(100%)
+}
+
+#bammer{
+width:120px;
+height:120px;
+border-radius: 60%;
+}
+#bammer:hover{
+filter:invert(100%)
+}
+
+#intern{
+width:180px;
+}
+
+#aboutmetext{
+width:240px;
+}
+
+#email{
+width:50px;
+height:50px;
+border-radius: 50%;
+}
+
+#email:hover{
+filter:invert(100%)
+}
+
+
+#instagram{
+width:50px;
+height:50px;
+border-radius: 50%;
+}
+
+#instagram:hover{
+filter:invert(100%)
+}
+
+.column img{
+width:100%;
+}
+
+.column {
+ float:left;
+  height: 100px;
+  width:20%;
+}
+
+.textcolumn {
+  float: left;
+  width: 40%;
+  padding:5px;
+  height: 150px; 
+}
+
+.warning {
+  border-color:black;
+  color: black;
+  border-radius:10px;
+}
+
+.warning:hover {
+filter:invert(100%)
+}
+
+.overflow{
+width: 200px;
+height: 300px;
+overflow:scroll;
+padding:10px;
+}
+
+.bookoverflow{
+width: 200px;
+height: 300px;
+overflow:scroll;
+padding:10px;
+}
+
+.codingoverflow{
+width: 200px;
+height: 300px;
+overflow:scroll;
+padding:10px;
+}
+
+.infaoverflow{
+width: 200px;
+height: 300px;
+overflow:scroll;
+padding:10px;
+}
+
+.inspooverflow{
+width: 200px;
+height: 500px;
+overflow:scroll;
+padding:10px;
+float:right;
+}
+
+.inspooverflow img{
+width:100%;
+}
+
+
+.codingoverflow img{
+width:100%;
+}
+
+
+
+#contactme{
+border-color:black;
+color: black;
+border-radius:10px;
+}
+
+.nia:hover{
+ transform: scale(1.1);
+}
+
+.nia{
+height:400px;
+}
+
+.indexani{
+padding-left:140px;
+}
+
+.textboutme{
+height:350px;
+}
+
+.myphoto{
+float:right;
+}
+
+
+.seemore{
+height:100px;
+}
+
+
